@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Vfone
-url: "http://support.vfone.vn/"
+title: Hoadon.biz
+url: "http://support.hoadon.biz/"
 baseurl:
 google_analytics_key: UA-133544408-1
 disqus_shortname: nhanhoa
@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Trang hỗ trợ dành cho Vfone.vn.
+description: Trang hỗ trợ dành cho Hoadon.biz.
 author:
   name:
   email:
@@ -18,7 +18,7 @@ author:
 social:
   name: Vfone
   links:
-    - http://support.vfone.vn/
+    - http://support.hoadon.biz/
 
 # -----
 # Build
